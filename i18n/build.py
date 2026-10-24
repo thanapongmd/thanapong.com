@@ -4,7 +4,7 @@ s=open(site).read()
 sel=open(os.path.join(d,'sel.js')).read();sel=sel[sel.index('['):sel.rindex(']')+1]
 en=json.load(open(os.path.join(d,'en.json')))
 data={}
-for l in ['th','zh','de','ja','it']:
+for l in ['th','zh','de','ja']:
     f=os.path.join(d,l+'.json')
     if os.path.exists(f):
         t=json.load(open(f)); data[l]={k:v for k,v in t.items() if k in en and v}

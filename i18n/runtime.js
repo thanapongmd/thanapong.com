@@ -4,7 +4,7 @@
 (function(){
   var SEL=__SEL__;
   var data={};try{data=JSON.parse(document.getElementById('i18n-data').textContent)}catch(e){}
-  var names={en:'EN',th:'TH',zh:'中文',de:'DE',ja:'日本語',it:'IT'};
+  var names={en:'EN',th:'TH',zh:'中文',de:'DE',ja:'日本語'};
   var els=[];
   SEL.forEach(function(s){document.querySelectorAll(s).forEach(function(e){if(els.indexOf(e)<0)els.push(e)})});
   els.forEach(function(e){e._en=e.innerHTML;e._k=e.innerHTML.replace(/\s+/g,' ').trim()});
