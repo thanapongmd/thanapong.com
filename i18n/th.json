@@ -180,5 +180,17 @@
  "This website gives general information and does not replace an eye examination. For emergencies call 1669.": "เว็บไซต์นี้ให้ข้อมูลทั่วไป และไม่สามารถใช้แทนการตรวจตาได้ กรณีฉุกเฉินโทร 1669",
  "© <span id=\"yr\">2026</span> Dr. Thanapong Somkijrungroj": "© <span id=\"yr\">2026</span> นพ.ธนาพงษ์ สมกิจรุ่งโรจน์",
  "Book a visit · see clinic phone numbers": "นัดหมายแพทย์ · ดูเบอร์โทรศัพท์คลินิก",
- "First author": "ผู้นิพนธ์ชื่อแรก"
+ "First author": "ผู้นิพนธ์ชื่อแรก",
+ "Lifelong education": "การศึกษาต่อเนื่องตลอดชีวิต",
+ "An online atlas Dr. Thanapong created for the lifelong education of ophthalmologists. It explains how intraocular lenses work, from optical principle to defocus curve.": "แอตลาสออนไลน์ที่ อ.นพ.ธนาพงษ์ สร้างขึ้นเพื่อการศึกษาต่อเนื่องตลอดชีวิตของจักษุแพทย์ อธิบายการทำงานของเลนส์แก้วตาเทียม ตั้งแต่หลักการทางทัศนศาสตร์ไปจนถึงกราฟ defocus curve",
+ "In 2026 he created the <a href=\"https://iolatlas.com\" target=\"_blank\" rel=\"noopener\">IOL Optics Atlas</a> (iolatlas.com), an online resource for the lifelong education of ophthalmologists in intraocular lens optics.": "ในปี 2026 ท่านได้สร้าง <a href=\"https://iolatlas.com\" target=\"_blank\" rel=\"noopener\">IOL Optics Atlas</a> (iolatlas.com) แหล่งเรียนรู้ออนไลน์ด้านทัศนศาสตร์ของเลนส์แก้วตาเทียม เพื่อการศึกษาต่อเนื่องตลอดชีวิตของจักษุแพทย์",
+ "Intraocular lens optics, computed and sourced": "ทัศนศาสตร์ของเลนส์แก้วตาเทียม ผ่านการคำนวณและมีแหล่งอ้างอิง",
+ "Eighteen interactive pages, computed in the browser: lenses classified by optical principle and depth of field, simulated defocus curves, optical bench, night halos, toric alignment, biometers and IOL formulas. Every value is linked to its source and graded by level of evidence.": "หน้าเชิงโต้ตอบ 18 หน้า คำนวณในเบราว์เซอร์: การจำแนกเลนส์ตามหลักการทางทัศนศาสตร์และช่วงความชัดลึก การจำลองกราฟ defocus curve แท่นทดสอบทางแสง (optical bench) แสงกระจายรอบดวงไฟยามกลางคืน (halo) การจัดแนวเลนส์ toric เครื่องวัด biometry และสูตรคำนวณเลนส์ ทุกค่ามีแหล่งอ้างอิงกำกับและจัดตามระดับของหลักฐาน (level of evidence)",
+ "Built for teaching, with a Present mode for lecture slides. It is not a substitute for manufacturer bench data or clinical trials, and it is not meant for patients to choose a lens.": "สร้างขึ้นเพื่อการสอน มีโหมด Present สำหรับใช้เป็นสไลด์บรรยาย ไม่สามารถใช้แทนข้อมูลจากการทดสอบบน optical bench ของผู้ผลิตหรือการทดลองทางคลินิกได้ และไม่ได้มีไว้ให้ผู้ป่วยใช้เลือกเลนส์ด้วยตนเอง",
+ "Open the IOL Optics Atlas": "เปิด IOL Optics Atlas",
+ "For ophthalmologists": "สำหรับจักษุแพทย์",
+ "<b>37</b>IOL models": "<b>37</b>รุ่นเลนส์แก้วตาเทียม",
+ "<b>38</b>IOL formulas": "<b>38</b>สูตรคำนวณเลนส์",
+ "<b>14</b>optical biometers": "<b>14</b>เครื่อง optical biometer",
+ "<b>1,000+</b>references": "<b>1,000+</b>รายการอ้างอิง"
 }
