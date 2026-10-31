@@ -32,7 +32,6 @@
  "Honors &amp; Awards": "受賞歴",
  "In the Media": "メディア掲載",
  "Four subspecialties under one doctor, so an eye with cataract, retinal disease, corneal disease and inflammation can be planned as a whole.": "4つの専門分野を1人の医師が担当するため、白内障、網膜疾患、角膜疾患、炎症をあわせ持つ目も、全体として治療計画を立てることができます。",
- "Private clinic hours by day. Please call the hospital to confirm and book, as schedules can change on holidays and conference dates.": "曜日ごとの個人診療の時間です。祝日や学会の日程により変更となる場合がありますので、ご予約の際は病院へお電話でご確認ください。",
  "Awards from Asia-Pacific and Thai ophthalmology societies for surgery, research and teaching.": "アジア太平洋地域およびタイの眼科学会から、手術・研究・教育に関して授与された賞です。",
  "Making eye health easy to understand. Dr. Thanapong appears on Thai TV and in the news to help people spot the early signs of cataract and diabetic eye disease, and to get care in time.": "目の健康をわかりやすく伝えるために。Thanapong 医師はタイのテレビやニュースに出演し、白内障や糖尿病網膜症の早期のサインに気づき、適切な時期に受診していただけるよう情報を発信しています。",
  "34 peer-reviewed papers indexed in PubMed on cataract surgery, retina, uveitis and ocular infection. <a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">View all on PubMed →</a>": "白内障手術、網膜、ぶどう膜炎、眼感染症に関する査読付き論文34編が PubMed に収載されています。<a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">PubMed ですべて見る →</a>",
@@ -81,7 +80,6 @@
  "Sun": "日",
  "Call hospital": "病院へお電話ください",
  "No clinic": "休診",
- "Chulalongkorn weekday appointments are arranged through the hospital line. Today's column is highlighted.": "チュラロンコン病院の平日の予約は、病院の予約窓口にて承ります。本日の列が強調表示されています。",
  "Chakri Thotsamo Building (ตึกจักรีทศมฯ), 8th floor (ชั้น 8) · 1873 Rama IV Rd, Pathum Wan, Bangkok 10330": "チャクリー・トッサモ棟（ตึกจักรีทศมฯ）8階（ชั้น 8）· 1873 Rama IV Rd, Pathum Wan, Bangkok 10330",
  "624 Yaowarat Rd, Samphanthawong, Bangkok 10100": "624 Yaowarat Rd, Samphanthawong, Bangkok 10100",
  "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110": "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110",
@@ -100,7 +98,6 @@
  "Bring your records": "資料をお持ちください",
  "Plan for dilation": "散瞳検査のご準備を",
  "Stop contact lenses before a cataract consultation": "白内障の診察前はコンタクトレンズの使用を中止してください",
- "Weekday evenings and Saturdays at Samitivej and MedPark, or weekdays at Chulalongkorn.": "サミティベート病院・メドパーク病院は平日夜間と土曜日、チュラロンコン病院は平日に診療しています。",
  "Give your name and say you would like to see Dr. Thanapong for cataract, retina or uveitis care.": "お名前を伝え、白内障・網膜・ぶどう膜炎について Thanapong 医師の診察を希望する旨をお伝えください。",
  "Your current glasses, a list of medicines and eye drops, and any previous eye scans or reports.": "現在お使いの眼鏡、服用中のお薬・点眼薬のリスト、これまでの目の検査画像や報告書をお持ちください。",
  "Most first visits include dilating drops that blur vision for a few hours. It is safer not to drive yourself home.": "初診ではほとんどの場合、散瞳薬を点眼するため、数時間ほど見えにくくなります。ご自身で運転して帰宅されないほうが安全です。",
@@ -230,5 +227,8 @@
  "Understand the lens: consensus classes, design curves, IOL models and the lens lab": "レンズを理解する：コンセンサス分類、デザイン曲線、IOLモデル、レンズラボ",
  "Find a lens and plan the eye: trade-offs, biometers, formulas and toric alignment": "レンズを探し、眼に合わせて計画する：トレードオフ、バイオメーター、計算式、トーリック軸合わせ",
  "After surgery: night halos, autorefraction and the two eyes together": "術後：夜間のハロー、オートレフラクション、両眼での見え方",
- "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">YouTube でも視聴できます →</a>"
+ "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">YouTube でも視聴できます →</a>",
+ "Private clinic hours only. Today's column is highlighted.": "私立病院での外来診療時間のみを掲載しています。本日の列が強調表示されています。",
+ "Weekday evenings and Saturdays at Samitivej and MedPark.": "サミティベート病院・メドパーク病院で、平日夜間と土曜日に診療しています。",
+ "Dr. Thanapong is based mainly at King Chulalongkorn Memorial Hospital. This website lists his private clinic hours only. Please call Samitivej or MedPark to confirm and book, as schedules can change on holidays and conference dates.": "Thanapong 医師は主にキング・チュラロンコン記念病院に勤務しています。このウェブサイトでは私立病院での外来診療時間のみを掲載しています。祝日や学会の日程により診療日程が変更となる場合がありますので、サミティベート病院またはメドパーク病院へお電話でご確認のうえご予約ください。"
 }

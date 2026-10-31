@@ -32,7 +32,6 @@
  "Honors &amp; Awards": "荣誉与奖项",
  "In the Media": "媒体报道",
  "Four subspecialties under one doctor, so an eye with cataract, retinal disease, corneal disease and inflammation can be planned as a whole.": "一位医生涵盖四个亚专科，因此同时存在白内障、视网膜疾病、角膜疾病和眼部炎症的眼睛，可以作为一个整体来规划治疗。",
- "Private clinic hours by day. Please call the hospital to confirm and book, as schedules can change on holidays and conference dates.": "各日私人门诊时间。节假日及学术会议期间时间可能变动，请致电医院确认并预约。",
  "Awards from Asia-Pacific and Thai ophthalmology societies for surgery, research and teaching.": "获亚太地区及泰国眼科学会颁发的手术、科研与教学奖项。",
  "Making eye health easy to understand. Dr. Thanapong appears on Thai TV and in the news to help people spot the early signs of cataract and diabetic eye disease, and to get care in time.": "让眼健康知识通俗易懂。Thanapong 医生参与泰国电视节目及新闻报道，帮助大众识别白内障和糖尿病眼病的早期征兆，以便及时就医。",
  "34 peer-reviewed papers indexed in PubMed on cataract surgery, retina, uveitis and ocular infection. <a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">View all on PubMed →</a>": "PubMed 收录的 34 篇同行评审论文，涵盖白内障手术、视网膜、葡萄膜炎及眼部感染。<a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">在 PubMed 查看全部 →</a>",
@@ -81,7 +80,6 @@
  "Sun": "周日",
  "Call hospital": "致电医院",
  "No clinic": "无门诊",
- "Chulalongkorn weekday appointments are arranged through the hospital line. Today's column is highlighted.": "朱拉隆功医院的工作日预约需通过医院电话安排。今天所在的一列已高亮显示。",
  "Chakri Thotsamo Building (ตึกจักรีทศมฯ), 8th floor (ชั้น 8) · 1873 Rama IV Rd, Pathum Wan, Bangkok 10330": "Chakri Thotsamo 大楼（ตึกจักรีทศมฯ）8 楼（ชั้น 8）· 1873 Rama IV Rd, Pathum Wan, Bangkok 10330",
  "624 Yaowarat Rd, Samphanthawong, Bangkok 10100": "624 Yaowarat Rd, Samphanthawong, Bangkok 10100",
  "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110": "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110",
@@ -100,7 +98,6 @@
  "Bring your records": "携带病历资料",
  "Plan for dilation": "做好散瞳准备",
  "Stop contact lenses before a cataract consultation": "白内障咨询前请停戴隐形眼镜",
- "Weekday evenings and Saturdays at Samitivej and MedPark, or weekdays at Chulalongkorn.": "三美泰医院和 MedPark 医院的工作日晚间及周六门诊，或朱拉隆功医院的工作日门诊。",
  "Give your name and say you would like to see Dr. Thanapong for cataract, retina or uveitis care.": "告知您的姓名，并说明您希望就白内障、视网膜或葡萄膜炎问题看 Thanapong 医生。",
  "Your current glasses, a list of medicines and eye drops, and any previous eye scans or reports.": "您目前佩戴的眼镜、正在使用的药物和眼药水清单，以及既往的眼部检查影像或报告。",
  "Most first visits include dilating drops that blur vision for a few hours. It is safer not to drive yourself home.": "大多数初诊需使用散瞳眼药水，会使视力模糊数小时。为安全起见，最好不要自行驾车回家。",
@@ -230,5 +227,8 @@
  "Understand the lens: consensus classes, design curves, IOL models and the lens lab": "理解晶状体：共识分类、设计曲线、人工晶状体型号和晶状体实验室",
  "Find a lens and plan the eye: trade-offs, biometers, formulas and toric alignment": "选择晶状体并规划眼睛：取舍权衡、生物测量仪、计算公式和 Toric 人工晶状体轴位对准",
  "After surgery: night halos, autorefraction and the two eyes together": "术后：夜间光晕、自动验光以及双眼协同视觉",
- "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">也可在 YouTube 观看 →</a>"
+ "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">也可在 YouTube 观看 →</a>",
+ "Private clinic hours only. Today's column is highlighted.": "仅列出私人门诊时间。今天的那一列已高亮显示。",
+ "Weekday evenings and Saturdays at Samitivej and MedPark.": "三美泰医院和 MedPark 医院的工作日晚间及周六门诊。",
+ "Dr. Thanapong is based mainly at King Chulalongkorn Memorial Hospital. This website lists his private clinic hours only. Please call Samitivej or MedPark to confirm and book, as schedules can change on holidays and conference dates.": "Thanapong 医生主要在朱拉隆功纪念医院工作。本网站仅列出他的私人门诊时间。节假日及学术会议期间出诊时间可能变动，请致电三美泰医院或 MedPark 医院确认并预约。"
 }

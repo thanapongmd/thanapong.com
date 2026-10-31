@@ -32,7 +32,6 @@
  "Honors &amp; Awards": "Ehrungen &amp; Preise",
  "In the Media": "In den Medien",
  "Four subspecialties under one doctor, so an eye with cataract, retinal disease, corneal disease and inflammation can be planned as a whole.": "Vier Spezialgebiete bei einem Arzt: So kann ein Auge mit Katarakt, Netzhauterkrankung, Hornhauterkrankung und Entzündung als Ganzes geplant werden.",
- "Private clinic hours by day. Please call the hospital to confirm and book, as schedules can change on holidays and conference dates.": "Sprechzeiten der Privatsprechstunden nach Wochentag. Bitte rufen Sie zur Bestätigung und Terminbuchung das Krankenhaus an, da sich die Zeiten an Feiertagen und Kongressterminen ändern können.",
  "Awards from Asia-Pacific and Thai ophthalmology societies for surgery, research and teaching.": "Auszeichnungen asiatisch-pazifischer und thailändischer ophthalmologischer Fachgesellschaften für Chirurgie, Forschung und Lehre.",
  "Making eye health easy to understand. Dr. Thanapong appears on Thai TV and in the news to help people spot the early signs of cataract and diabetic eye disease, and to get care in time.": "Augengesundheit verständlich machen. Dr. Thanapong tritt im thailändischen Fernsehen und in den Nachrichten auf, um Menschen zu helfen, frühe Anzeichen von Grauem Star und diabetischen Augenerkrankungen zu erkennen und rechtzeitig behandelt zu werden.",
  "34 peer-reviewed papers indexed in PubMed on cataract surgery, retina, uveitis and ocular infection. <a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">View all on PubMed →</a>": "34 begutachtete, in PubMed indexierte Fachartikel zu Kataraktchirurgie, Netzhaut, Uveitis und Augeninfektionen. <a class=\"plink\" href=\"https://pubmed.ncbi.nlm.nih.gov/?term=Somkijrungroj+T%5BAuthor%5D&amp;sort=date\" target=\"_blank\" rel=\"noopener\">Alle auf PubMed ansehen →</a>",
@@ -81,7 +80,6 @@
  "Sun": "So",
  "Call hospital": "Krankenhaus anrufen",
  "No clinic": "Keine Sprechstunde",
- "Chulalongkorn weekday appointments are arranged through the hospital line. Today's column is highlighted.": "Termine an Wochentagen im Chulalongkorn werden telefonisch über das Krankenhaus vereinbart. Die Spalte für heute ist hervorgehoben.",
  "Chakri Thotsamo Building (ตึกจักรีทศมฯ), 8th floor (ชั้น 8) · 1873 Rama IV Rd, Pathum Wan, Bangkok 10330": "Chakri Thotsamo Building (ตึกจักรีทศมฯ), 8. Stock (ชั้น 8) · 1873 Rama IV Rd, Pathum Wan, Bangkok 10330",
  "624 Yaowarat Rd, Samphanthawong, Bangkok 10100": "624 Yaowarat Rd, Samphanthawong, Bangkok 10100",
  "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110": "133 Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110",
@@ -100,7 +98,6 @@
  "Bring your records": "Unterlagen mitbringen",
  "Plan for dilation": "Pupillenerweiterung einplanen",
  "Stop contact lenses before a cataract consultation": "Kontaktlinsen vor der Katarakt-Beratung absetzen",
- "Weekday evenings and Saturdays at Samitivej and MedPark, or weekdays at Chulalongkorn.": "Wochentags abends und samstags im Samitivej und MedPark oder wochentags im Chulalongkorn.",
  "Give your name and say you would like to see Dr. Thanapong for cataract, retina or uveitis care.": "Nennen Sie Ihren Namen und sagen Sie, dass Sie Dr. Thanapong wegen Katarakt, Netzhauterkrankung oder Uveitis aufsuchen möchten.",
  "Your current glasses, a list of medicines and eye drops, and any previous eye scans or reports.": "Ihre aktuelle Brille, eine Liste Ihrer Medikamente und Augentropfen sowie frühere Augenaufnahmen oder Befunde.",
  "Most first visits include dilating drops that blur vision for a few hours. It is safer not to drive yourself home.": "Beim ersten Besuch erhalten Sie meist pupillenerweiternde Tropfen, die die Sicht für einige Stunden verschwimmen lassen. Fahren Sie danach sicherheitshalber nicht selbst nach Hause.",
@@ -230,5 +227,8 @@
  "Understand the lens: consensus classes, design curves, IOL models and the lens lab": "Die Linse verstehen: Konsensklassen, Designkurven, IOL-Modelle und das Linsenlabor",
  "Find a lens and plan the eye: trade-offs, biometers, formulas and toric alignment": "Eine Linse finden und das Auge planen: Abwägungen, Biometer, Formeln und torische Ausrichtung",
  "After surgery: night halos, autorefraction and the two eyes together": "Nach der Operation: Halos bei Nacht, Autorefraktion und beide Augen zusammen",
- "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Auch auf YouTube →</a>"
+ "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Also on YouTube →</a>": "<a class=\"plink\" href=\"https://www.youtube.com/watch?v=QEuRrdl1zAQ\" target=\"_blank\" rel=\"noopener\">Auch auf YouTube →</a>",
+ "Private clinic hours only. Today's column is highlighted.": "Nur Privatsprechstunden. Die Spalte für heute ist hervorgehoben.",
+ "Weekday evenings and Saturdays at Samitivej and MedPark.": "Wochentags abends und samstags im Samitivej und im MedPark.",
+ "Dr. Thanapong is based mainly at King Chulalongkorn Memorial Hospital. This website lists his private clinic hours only. Please call Samitivej or MedPark to confirm and book, as schedules can change on holidays and conference dates.": "Dr. Thanapong ist hauptsächlich am King Chulalongkorn Memorial Hospital tätig. Diese Website führt nur die Zeiten seiner Privatsprechstunden auf. Bitte rufen Sie zur Bestätigung und Terminbuchung das Samitivej oder MedPark an, da sich die Zeiten an Feiertagen und Kongressterminen ändern können."
 }
