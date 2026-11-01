@@ -166,8 +166,6 @@
  "Selected": "Auswahl",
  "Show all 34 publications": "Alle 34 Publikationen anzeigen",
  "Ophthalmologist, Department of Ophthalmology, Faculty of Medicine, Chulalongkorn University. Cataract, retina and uveitis.": "Augenarzt, Augenklinik der Medizinischen Fakultät, Chulalongkorn University. Katarakt, Netzhaut und Uveitis.",
- "This website gives general information and does not replace an eye examination. For emergencies call 1669.": "Diese Website bietet allgemeine Informationen und ersetzt keine augenärztliche Untersuchung. Im Notfall rufen Sie 1669 an.",
- "© <span id=\"yr\">2026</span> Dr. Thanapong Somkijrungroj": "© <span id=\"yr\">2026</span> Dr. Thanapong Somkijrungroj",
  "Book a visit · see clinic phone numbers": "Termin buchen · Telefonnummern der Kliniken",
  "First author": "Erstautor",
  "Lifelong education": "Lebenslange Fortbildung",
@@ -232,5 +230,12 @@
  "Skip to content": "Zum Inhalt springen",
  "About Dr. Thanapong": "Über Dr. Thanapong",
  "What RLE involves, and its risks": "Was RLE bedeutet und welche Risiken es gibt",
- "Private clinic hours only. Today is highlighted.": "Nur Privatsprechstunden. Der heutige Tag ist hervorgehoben."
+ "Private clinic hours only. Today is highlighted.": "Nur Privatsprechstunden. Der heutige Tag ist hervorgehoben.",
+ "<b>About this website.</b> This is the personal website of Dr. Thanapong Somkijrungroj. Affiliations are listed for identification only. It is not operated or endorsed by Chulalongkorn University, the Faculty of Medicine, King Chulalongkorn Memorial Hospital, the Thai Red Cross Society, or any hospital or professional society named on it. Appointments are made only through each hospital's own booking line.": "<b>Über diese Website.</b> Dies ist die persönliche Website von Dr. Thanapong Somkijrungroj. Zugehörigkeiten werden nur zur Identifikation genannt. Die Website wird weder von der Chulalongkorn University, der Medizinischen Fakultät, dem King Chulalongkorn Memorial Hospital, der Thailändischen Rotkreuzgesellschaft noch von einem hier genannten Krankenhaus oder einer Fachgesellschaft betrieben oder gebilligt. Termine werden ausschließlich über die Terminvergabe des jeweiligen Krankenhauses vereinbart.",
+ "<b>Medical information.</b> The content is general information for patients and colleagues. It does not replace an eye examination and is not advice for any individual. Whether a treatment suits you can only be decided after a consultation. In an emergency, call 1669.": "<b>Medizinische Informationen.</b> Die Inhalte sind allgemeine Informationen für Patienten und Kollegen. Sie ersetzen keine augenärztliche Untersuchung und stellen keine individuelle Beratung dar. Ob eine Behandlung für Sie geeignet ist, kann nur nach einer Konsultation entschieden werden. Im Notfall wählen Sie bitte die 1669.",
+ "<b>Privacy.</b> This site collects no personal data and uses no analytics or advertising. Your language choice is stored in your browser only. Fonts are loaded from Google Fonts and the tour video from YouTube, which see your IP address.": "<b>Datenschutz.</b> Diese Website erhebt keine personenbezogenen Daten und verwendet weder Analyse- noch Werbedienste. Ihre Sprachwahl wird nur in Ihrem Browser gespeichert. Schriften werden von Google Fonts und das Tour-Video von YouTube geladen; diese Dienste sehen Ihre IP-Adresse.",
+ "<b>Copyright.</b> Text and photographs © 2026 Dr. Thanapong Somkijrungroj. Articles, videos and documents by others are shown with credit and remain the property of their publishers.": "<b>Urheberrecht.</b> Texte und Fotos © 2026 Dr. Thanapong Somkijrungroj. Artikel, Videos und Dokumente Dritter werden mit Quellenangabe gezeigt und bleiben Eigentum ihrer Herausgeber.",
+ "Also by Dr. Thanapong: <a href=\"https://iolatlas.com\" target=\"_blank\" rel=\"noopener\">IOL Optics Atlas</a> (iolatlas.com), an educational resource for ophthalmologists.": "Ebenfalls von Dr. Thanapong: <a href=\"https://iolatlas.com\" target=\"_blank\" rel=\"noopener\">IOL Optics Atlas</a> (iolatlas.com), eine Lernressource für Augenärzte.",
+ "Hospital switchboard": "Zentrale des Krankenhauses",
+ "IOL Atlas": "IOL Atlas"
 }
